@@ -18,7 +18,7 @@
 
 [Akuro's Original Casting Sounds](https://www.nexusmods.com/baldursgate/mods/29) 
 
-[Diablofication (camera lock)](https://github.com/m-architek/Diablofication), [mirror](https://github.com/the-overdriven/BG-Diablofication)  
+[Diablofication (camera lock)](https://github.com/m-architek/Diablofication), [mirror](https://github.com/the-overdriven/BG-Diablofication), [release mirror](https://drive.google.com/file/d/1zz9YV8nnbo2U8KdanGpzVM8OAUjm_2Hs/view?usp=sharing)  
 
 [Simple XP cap remover](https://www.nexusmods.com/baldursgate/mods/35)  
 
