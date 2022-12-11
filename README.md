@@ -16,9 +16,9 @@
 
 [Olvyn's Tweaks](https://www.nexusmods.com/baldursgate/mods/33), [repo](https://github.com/OlvynChuru/Olvyn-Tweaks), [repo mirror](https://github.com/the-overdriven/BG-IwD-Olvyn-Tweaks)  
 the only components I install:  
-No Party Required area transitions  
-Make it possible to enter the Nashkel Mines through the back cave entrance  
-Make it possible to enter the catacombs beneath Candlekeep early  
+1/ No Party Required area transitions  
+2/ Make it possible to enter the Nashkel Mines through the back cave entrance  
+3/ Make it possible to enter the catacombs beneath Candlekeep early  
 
 [Akuro's Original Casting Sounds](https://www.nexusmods.com/baldursgate/mods/29), [mirror](https://drive.google.com/file/d/1IVEnYo4vcukGHO2X42vT1mf4LmaAu7Zk/view?usp=sharing)  
 
@@ -28,4 +28,4 @@ Make it possible to enter the catacombs beneath Candlekeep early
 
 [The Tweaks Anthology](https://www.gibberlings3.net/mods/tweaks/tweaks/), [mirror](https://github.com/the-overdriven/BG-IwD-Tweaks-Anthology), [exe mirror](https://drive.google.com/file/d/17ZzEb4NVrFVitSpl97ZvFWCrXKufSYyx/view?usp=sharing)   
 
-**The order of installation is important.**
+**The installation order is important, should be the same as in this list.**
