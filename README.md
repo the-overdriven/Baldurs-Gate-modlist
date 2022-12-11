@@ -26,6 +26,46 @@ the only components I install:
 
 [Simple XP cap remover](https://www.nexusmods.com/baldursgate/mods/35) (the one from Tweaks Anthology might be more reliable)  
 
-[The Tweaks Anthology](https://www.gibberlings3.net/mods/tweaks/tweaks/), [mirror](https://github.com/the-overdriven/BG-IwD-Tweaks-Anthology), [exe mirror](https://drive.google.com/file/d/17ZzEb4NVrFVitSpl97ZvFWCrXKufSYyx/view?usp=sharing)   
 
-**The installation order is important, should be the same as in this list.**
+### [The Tweaks Anthology](https://www.gibberlings3.net/mods/tweaks/tweaks/), [mirror](https://github.com/the-overdriven/BG-IwD-Tweaks-Anthology), [exe mirror](https://drive.google.com/file/d/17ZzEb4NVrFVitSpl97ZvFWCrXKufSYyx/view?usp=sharing), components:   
+
+Weapon Animation Tweaks  
+Icon Improvements  
+Force All Dialogue to Pause Game  
+Remove "+x" From Unique Item Names  
+Unique Icons  
+Use Character Colors Instead of Item Colors  
+Remove Annoying Visual Effects from Equipped Items  
+Separate Resist Fire/Cold Icon into Separate Icons  
+Reveal Wilderness Areas Before Chapter Six (BG2)  
+Make Cloakwood Areas Available Before Completing the Bandit Camp (BG1)  
+Improved Athkatlan City Guard (BG2)  
+Do Not Reveal City Maps When Entering Area (BG2)  
+NPCs Respond to the Main Character, Not to Whichever Character Talks to Them (IwD)  
+Make Heart of Winter Accessible at Any Level (IwD)  
+NPCs Cannot Pass Doors  
+Change Experience Point Cap  
+Wear Multiple Protection Items  
+Change Magically Created Weapons to Zero Weight  
+Max HP at Level One  
+Higher HP on Level Up  
+Maximum HP Creatures  
+Identify All Items  
+Easy Spell Learning  
+Make Bags of Holding Bottomless  
+Increase Ammo Stack Size  
+Increase Jewelry, Gem, and Miscellaneous Item Stacks  
+Increase Potion Stacking  
+Increase Scroll Stacking  
+Faster Chapter One and Two Cutscenes and Dreams (BG2)  
+Keep Drizzt's Loot, Disable Malchor Harpell (BG2)  
+Stores Purchase All Item Types  
+Sensible Entrance Points  
+Friendly Random Drops (IwD1)  
+Personalize Automatic Save Names  
+Death Cam  
+Start New Games with Party AI Turned Off  
+No Depreciation in Stores  
+Increase Party Movement Speed and/or Casting Speed Outside of Combat  
+
+**Mod installation order is important, should be the same as in this list.**
