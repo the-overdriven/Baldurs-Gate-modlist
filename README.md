@@ -10,7 +10,7 @@
 
 [Sentrizeal's Alternate Avatar Pack](https://www.nexusmods.com/baldursgate/mods/30), [mirror](https://drive.google.com/file/d/19zO0cWw44Q9hszuY4Ts_FU20VmeVapLL/view?usp=sharing)  
 
-[Portraits Portraits Everywhere](https://www.nexusmods.com/baldursgate/mods/31)  
+[Portraits Portraits Everywhere](https://www.nexusmods.com/baldursgate/mods/31), [version by Smaegolheart and bob_veng](https://drive.google.com/file/d/11d6Cbv4QVc1B7eGX7y_V0qLKfYHUIyR2/view?usp=sharing), [Sirick's replacements](https://drive.google.com/file/d/12d88-RVfPH9wO4aE4zx-XF09W97fWq1b/view?usp=sharing)  
 
 [Thalantyr Item Upgrade Mod](https://www.nexusmods.com/baldursgate/mods/34) (contains Bag of Holding), [mirror](https://drive.google.com/file/d/11NEaQ-JJ1zTXbZYOxLtWtHE98tpy2yi8/view?usp=sharing)  
 
