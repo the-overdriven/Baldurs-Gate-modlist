@@ -4,7 +4,7 @@
 
 [Dragonspear UI](https://www.nexusmods.com/baldursgate/mods/27), [mirror](https://drive.google.com/file/d/1P8Gy4SRFxhL-PybfBj-4WdScZdAXnqv5/view?usp=sharing)  
 
-[BGEE Classic Movies](https://www.nexusmods.com/baldursgate/mods/24),   
+[BGEE Classic Movies](https://www.nexusmods.com/baldursgate/mods/24), [mirror](https://drive.google.com/file/d/17n3VVXFmnSxUd7beYWain4Bpw6sNMDQE/view?usp=sharing)   
 
 [Nostalgia Pack](https://www.nexusmods.com/baldursgate/mods/26), [mirror](https://drive.google.com/file/d/1o3viOf_VgCOIvcXRSUZaMJGkkA0ZnTJA/view?usp=sharing)    
 
@@ -23,3 +23,5 @@
 [Simple XP cap remover](https://www.nexusmods.com/baldursgate/mods/35) (the one from Tweaks Anthology might be more reliable)  
 
 [The Tweaks Anthology](https://www.gibberlings3.net/mods/tweaks/tweaks/), [mirror](https://github.com/the-overdriven/BG-IwD-Tweaks-Anthology), [exe mirror](https://drive.google.com/file/d/17ZzEb4NVrFVitSpl97ZvFWCrXKufSYyx/view?usp=sharing)   
+
+**The order of installation is imporant.**
