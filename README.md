@@ -20,6 +20,6 @@
 
 [Diablofication (camera lock)](https://github.com/m-architek/Diablofication), [mirror](https://github.com/the-overdriven/BG-Diablofication), [release mirror](https://drive.google.com/file/d/1zz9YV8nnbo2U8KdanGpzVM8OAUjm_2Hs/view?usp=sharing)  
 
-[Simple XP cap remover](https://www.nexusmods.com/baldursgate/mods/35)  
+[Simple XP cap remover](https://www.nexusmods.com/baldursgate/mods/35) (the one from Tweaks Anthology might be more reliable)  
 
 [The Tweaks Anthology](https://www.gibberlings3.net/mods/tweaks/tweaks/), [mirror](https://github.com/the-overdriven/BG-IwD-Tweaks-Anthology), [exe mirror](https://drive.google.com/file/d/17ZzEb4NVrFVitSpl97ZvFWCrXKufSYyx/view?usp=sharing)   
