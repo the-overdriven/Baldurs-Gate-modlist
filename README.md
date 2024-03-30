@@ -22,6 +22,8 @@ the only components I install:
 
 [Akuro's Original Casting Sounds](https://www.nexusmods.com/baldursgate/mods/29), [mirror](https://drive.google.com/file/d/1IVEnYo4vcukGHO2X42vT1mf4LmaAu7Zk/view?usp=sharing)  
 
+[Infinity Sounds (restores original BG1 sounds)](https://github.com/skellytz/infinity-sounds)  
+
 [Diablofication (camera lock)](https://github.com/m-architek/Diablofication), [mirror](https://github.com/the-overdriven/BG-Diablofication), [release mirror](https://drive.google.com/file/d/1zz9YV8nnbo2U8KdanGpzVM8OAUjm_2Hs/view?usp=sharing)  
 
 [Simple XP cap remover](https://www.nexusmods.com/baldursgate/mods/35) (the one from Tweaks Anthology might be more reliable)  
