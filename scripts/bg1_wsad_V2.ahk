@@ -22,8 +22,15 @@ w::
     currentTime := A_TickCount
     if (currentTime - lastPressTimeW > cooldown) {
         lastPressTimeW := currentTime
+        
+        ; Save original mouse position
+        MouseGetPos(&originalX, &originalY)  ; Use parentheses and pass by reference
+        
         MouseMove(CenterX, CenterY - 400, 0)
         Click("R")  ; Right-click
+        
+        ; Restore original mouse position
+        MouseMove(originalX, originalY, 0)
     }
 }
 
@@ -33,8 +40,15 @@ s::
     currentTime := A_TickCount
     if (currentTime - lastPressTimeS > cooldown) {
         lastPressTimeS := currentTime
+        
+        ; Save original mouse position
+        MouseGetPos(&originalX, &originalY)  ; Use parentheses and pass by reference
+        
         MouseMove(CenterX, CenterY + 280, 0)
         Click("R")  ; Right-click
+        
+        ; Restore original mouse position
+        MouseMove(originalX, originalY, 0)
     }
 }
 
@@ -44,8 +58,15 @@ a::
     currentTime := A_TickCount
     if (currentTime - lastPressTimeA > cooldown) {
         lastPressTimeA := currentTime
+        
+        ; Save original mouse position
+        MouseGetPos(&originalX, &originalY)  ; Use parentheses and pass by reference
+        
         MouseMove(CenterX - 500, CenterY, 0)
         Click("R")  ; Right-click
+        
+        ; Restore original mouse position
+        MouseMove(originalX, originalY, 0)
     }
 }
 
@@ -55,8 +76,15 @@ d::
     currentTime := A_TickCount
     if (currentTime - lastPressTimeD > cooldown) {
         lastPressTimeD := currentTime
+        
+        ; Save original mouse position
+        MouseGetPos(&originalX, &originalY)  ; Use parentheses and pass by reference
+        
         MouseMove(CenterX + 500, CenterY, 0)
         Click("R")  ; Right-click
+        
+        ; Restore original mouse position
+        MouseMove(originalX, originalY, 0)
     }
 }
 
