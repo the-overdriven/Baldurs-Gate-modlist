@@ -21,7 +21,7 @@ lastPressTimeW := 0
 lastPressTimeA := 0
 lastPressTimeS := 0
 lastPressTimeD := 0
-cooldown := 100 ; 100 milliseconds
+cooldown := 600 ;
 
 w:: {
     global lastPressTimeW
@@ -34,12 +34,12 @@ w:: {
         Click("R")
         MouseMove(originalX, originalY, 0)
         
-        if (CheckScreenUnchanged()) {
-            MouseGetPos(&originalX, &originalY)
-            MouseMove(CenterX, CenterY - 50, 0)
-            Click("R")
-            MouseMove(originalX, originalY, 0)
-        }
+        ;if (CheckScreenUnchanged()) {
+        ;    MouseGetPos(&originalX, &originalY)
+        ;    MouseMove(CenterX, CenterY - 50, 0)
+        ;    Click("R")
+        ;    MouseMove(originalX, originalY, 0)
+        ;}
     }
 }
 
@@ -54,12 +54,12 @@ s:: {
         Click("R")
         MouseMove(originalX, originalY, 0)
         
-        if (CheckScreenUnchanged()) {
-            MouseGetPos(&originalX, &originalY)
-            MouseMove(CenterX, CenterY + 50, 0)
-            Click("R")
-            MouseMove(originalX, originalY, 0)
-        }
+        ;if (CheckScreenUnchanged()) {
+        ;    MouseGetPos(&originalX, &originalY)
+        ;    MouseMove(CenterX, CenterY + 50, 0)
+        ;    Click("R")
+        ;    MouseMove(originalX, originalY, 0)
+        ;}
     }
 }
 
@@ -74,12 +74,12 @@ a:: {
         Click("R")
         MouseMove(originalX, originalY, 0)
         
-        if (CheckScreenUnchanged()) {
-            MouseGetPos(&originalX, &originalY)
-            MouseMove(CenterX - 50, CenterY, 0)
-            Click("R")
-            MouseMove(originalX, originalY, 0)
-        }
+        ;if (CheckScreenUnchanged()) {
+        ;    MouseGetPos(&originalX, &originalY)
+        ;    MouseMove(CenterX - 50, CenterY, 0)
+        ;    Click("R")
+        ;    MouseMove(originalX, originalY, 0)
+        ;}
     }
 }
 
@@ -95,13 +95,49 @@ d:: {
         Click("R")
         MouseMove(originalX, originalY, 0)
         
-        if (CheckScreenUnchanged()) {
-            MouseGetPos(&originalX, &originalY)
-            MouseMove(CenterX + 50, CenterY, 0)
-            Click("R")
-            MouseMove(originalX, originalY, 0)
-        }
+        ;if (CheckScreenUnchanged()) {
+        ;    MouseGetPos(&originalX, &originalY)
+         ;   MouseMove(CenterX + 50, CenterY, 0)
+        ;    Click("R")
+        ;    MouseMove(originalX, originalY, 0)
+        ;}
     }
+}
+
+~w Up:: ; When 'W' is released
+{
+    ;Send("{F3}")
+	MouseGetPos(&originalX, &originalY)
+	MouseMove(CenterX, CenterY - 50, 0)
+    Click("R")
+    MouseMove(originalX, originalY, 0)
+}
+
+~s Up:: ; When 'S' is released
+{
+    ;Send("{F3}")
+	MouseGetPos(&originalX, &originalY)
+    MouseMove(CenterX, CenterY + 50, 0)
+    Click("R")
+    MouseMove(originalX, originalY, 0)
+}
+
+~a Up:: ; When 'A' is released
+{
+    ;Send("{F3}")
+	MouseGetPos(&originalX, &originalY)
+    MouseMove(CenterX - 50, CenterY, 0)
+    Click("R")
+    MouseMove(originalX, originalY, 0)
+}
+
+~d Up:: ; When 'D' is released
+{
+    ; Send("{F3}")
+    MouseGetPos(&originalX, &originalY)
+    MouseMove(CenterX + 50, CenterY, 0)
+    Click("R")
+    MouseMove(originalX, originalY, 0)
 }
 
 CheckScreenUnchanged() {
