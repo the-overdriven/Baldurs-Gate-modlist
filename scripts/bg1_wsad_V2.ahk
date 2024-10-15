@@ -21,7 +21,7 @@ lastPressTimeW := 0
 lastPressTimeA := 0
 lastPressTimeS := 0
 lastPressTimeD := 0
-cooldown := 600 ;
+cooldown := 800 ;
 
 w:: {
     global lastPressTimeW
@@ -111,6 +111,9 @@ d:: {
 	MouseMove(CenterX, CenterY - 50, 0)
     Click("R")
     MouseMove(originalX, originalY, 0)
+	
+	global lastPressTimeW
+	lastPressTimeW := 0
 }
 
 ~s Up:: ; When 'S' is released
@@ -120,6 +123,9 @@ d:: {
     MouseMove(CenterX, CenterY + 50, 0)
     Click("R")
     MouseMove(originalX, originalY, 0)
+	
+	global lastPressTimeS
+	lastPressTimeS := 0
 }
 
 ~a Up:: ; When 'A' is released
@@ -129,6 +135,9 @@ d:: {
     MouseMove(CenterX - 50, CenterY, 0)
     Click("R")
     MouseMove(originalX, originalY, 0)
+	
+	global lastPressTimeA
+	lastPressTimeA := 0
 }
 
 ~d Up:: ; When 'D' is released
@@ -138,6 +147,9 @@ d:: {
     MouseMove(CenterX + 50, CenterY, 0)
     Click("R")
     MouseMove(originalX, originalY, 0)
+	
+	global lastPressTimeD
+	lastPressTimeD := 0
 }
 
 CheckScreenUnchanged() {
