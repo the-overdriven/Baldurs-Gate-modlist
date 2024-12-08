@@ -6,7 +6,7 @@
 
 [BGEE Classic Movies](https://www.nexusmods.com/baldursgate/mods/24), [mirror](https://drive.google.com/file/d/17n3VVXFmnSxUd7beYWain4Bpw6sNMDQE/view?usp=sharing)   
 
-[Nostalgia Pack](https://www.nexusmods.com/baldursgate/mods/26), [mirror](https://drive.google.com/file/d/1o3viOf_VgCOIvcXRSUZaMJGkkA0ZnTJA/view?usp=sharing)    
+[Nostalgia Pack](https://github.com/Spellhold-Studios/Nostalgia-Pack), [mirror](https://drive.google.com/file/d/1o3viOf_VgCOIvcXRSUZaMJGkkA0ZnTJA/view?usp=sharing)    
 
 [Sentrizeal's Alternate Avatar Pack](https://www.nexusmods.com/baldursgate/mods/30), [mirror](https://drive.google.com/file/d/19zO0cWw44Q9hszuY4Ts_FU20VmeVapLL/view?usp=sharing)  
 
