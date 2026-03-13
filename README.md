@@ -1,6 +1,6 @@
 # WeiDU Mod List
 
-_Generated from `WeiDU.log` — 19 mods installed_
+_Generated from `WeiDU.log` — 23 mods installed_
 
 ---
 
@@ -203,3 +203,35 @@ _Generated from `WeiDU.log` — 19 mods installed_
 - Add random loot to monsters
 - Remove trash monster loot (i.e. kobold's dagger or hogboglin's leather armor)
 - Block monster respawns
+
+## BGGO v3.5
+
+- Baldurs Gate Graphical Overhaul Core
+
+## NOSTALGIAPACK 1.1
+
+- Restore BG1 Inventory Paperdolls (by Erephine)
+- Restore BG1 Item Icons and Appearance
+- Restore BG1 Flaming Fist appearance
+- Restore BG1 Amnian Guard appearance
+- Restore BG1 Dimension Door Effect
+
+## BGEECLASSICMOVIES v2.4.0
+
+- Restore BG1 movies to BG:EE -> Add missing movies
+- Show all movies in options without need to unlock them in game
+- Restore BG1 Chapter and Dream Screens
+- Modify startup movies -> Disable startup logo and intro movies
+
+## SENTRIZEAL AA PACK v1.6
+
+- Sentrizeal's Wizard 4 Missing Animation Fix
+- Sentrizeal's Elven Ranger Avatar (Female)
+- Sentrizeal's Elven Ranger Avatar (Male)
+- Sentrizeal's Elven Ranger Weapon Fix
+- Sentrizeal's Human Gladiator Avatar (Female)
+- Sentrizeal's Human Gladiator Avatar (Male)
+- Sentrizeal's Human Mercenary Avatar (Female)
+- Sentrizeal's Human Mercenary Avatar (Male)
+- Sentrizeal's Elegant Elven Archmagi Avatar (Female)
+- Sentrizeal's Elegant Elven Archmagi Avatar (Male)
