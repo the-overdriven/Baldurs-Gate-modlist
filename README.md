@@ -1,73 +1,227 @@
-# Baldur's Gate modlist
+# WeiDU Mod List
 
-[DLC Merger](https://www.nexusmods.com/baldursgate/mods/28), [mirror](https://drive.google.com/file/d/19GjQjCvqV6DQav2Lj-lHAMpwVI__di__/view?usp=sharing)  
+_Generated from `WeiDU.log` — 20 mods installed_
 
-[Dragonspear UI](https://www.nexusmods.com/baldursgate/mods/27), [mirror](https://drive.google.com/file/d/1P8Gy4SRFxhL-PybfBj-4WdScZdAXnqv5/view?usp=sharing)  
+---
 
-[BGEE Classic Movies](https://www.nexusmods.com/baldursgate/mods/24), [mirror](https://drive.google.com/file/d/17n3VVXFmnSxUd7beYWain4Bpw6sNMDQE/view?usp=sharing)   
+## DLCMERGER 1.3
 
-[Nostalgia Pack](https://github.com/Spellhold-Studios/Nostalgia-Pack), [mirror](https://drive.google.com/file/d/1o3viOf_VgCOIvcXRSUZaMJGkkA0ZnTJA/view?usp=sharing)    
+- Merge DLC into game -> Merge all available DLCs
 
-[Sentrizeal's Alternate Avatar Pack](https://www.nexusmods.com/baldursgate/mods/30), [mirror](https://drive.google.com/file/d/19zO0cWw44Q9hszuY4Ts_FU20VmeVapLL/view?usp=sharing)  
+## EEEX v0.11.0-alpha
 
-[Portraits Portraits Everywhere](https://www.nexusmods.com/baldursgate/mods/31), [version by Smaegolheart and bob_veng](https://drive.google.com/file/d/11d6Cbv4QVc1B7eGX7y_V0qLKfYHUIyR2/view?usp=sharing), [Sirick's replacements](https://drive.google.com/file/d/12d88-RVfPH9wO4aE4zx-XF09W97fWq1b/view?usp=sharing)  
+- EEex
+- Experimental - Use LuaJIT (can help stuttering)
+- Enable effect menu module - LShift-on-hover to view spells affecting creature
+- Enable empty container module - Highlight empty containers in gray instead of cyan
+- Enable hotkey module - Edit override/B3Hotkey.lua to create advanced spell hotkeys
+- Enable scale module - Customizable UI scaling factor
+- Enable time step module - Advance 1 game tick on keypress
+- Enable timer module - Visual indicators for modal actions, contingencies, and spell/item cooldowns
 
-[Thalantyr Item Upgrade Mod](https://www.nexusmods.com/baldursgate/mods/34) (contains Bag of Holding), [mirror](https://drive.google.com/file/d/11NEaQ-JJ1zTXbZYOxLtWtHE98tpy2yi8/view?usp=sharing)  
+## HIDDENGAMEPLAYOPTIONS 4.7
 
-[Olvyn's Tweaks](https://www.nexusmods.com/baldursgate/mods/33), [repo](https://github.com/OlvynChuru/Olvyn-Tweaks), [repo mirror](https://github.com/the-overdriven/BG-IwD-Olvyn-Tweaks)  
-the only components I install:  
-1/ No Party Required area transitions  
-2/ Make it possible to enter the Nashkel Mines through the back cave entrance  
-3/ Make it possible to enter the catacombs beneath Candlekeep early  
+- Install all Hidden Gameplay Options at once
 
-[Akuro's Original Casting Sounds](https://www.nexusmods.com/baldursgate/mods/29), [mirror](https://drive.google.com/file/d/1IVEnYo4vcukGHO2X42vT1mf4LmaAu7Zk/view?usp=sharing)  
+## STRATAGEMS 35.21
 
-[Infinity Sounds (restores original BG1 sounds)](https://github.com/skellytz/infinity-sounds)  
+- Install all spell tweaks (if you don't select this, you will be given a chance to choose by category)
+- Add 9 new arcane spells
+- Add 6 new divine spells (some borrowed from Divine Remix)
+- Re-introduce potions of extra-healing
+- Make elemental arrows like BG2
+- Wider selection of random scrolls
+- Improved shapeshifting
+- Improved NPC customization and management
+- Revised handling of death effects like disintegration, petrification and imprisonment (party members who are disintegrated etc can be resurrected; imprisoned or petrified characters rejoin the party automatically; the game doesn't end if the main character is petrified or imprisoned)
+- Revised inn rooms: more expensive, more benefits
+- Skip the Candlekeep tutorial sections -> Skip Candlekeep altogether (warning: breaks the 4th wall!)
+- Make spell sequencers and contingencies into innate abilities
+- Ease-of-use party AI
+- Initialise AI components (required for all tactical and AI components)
+- Smarter general AI
+- Better calls for help
+- Smarter Mages
+- Smarter Priests
+- Potions for NPCs
+- Improved Spiders
+- Smarter sirines and dryads
+- Slightly smarter carrion crawlers
+- Smarter basilisks
+- Improved doppelgangers
+- Tougher Black Talons and Iron Throne guards
+- Improved deployment for parties of assassins
+- Improved kobolds
+- Relocated bounty hunters
+- Improved Ulcaster
+- Improved Balduran's Isle
+- Improved Durlag's Tower
+- Improved Demon Cultists
+- Improved Cloakwood Druids
+- Improved Bassilus
+- Improved Drasus party
+- Improved Red Wizards
+- Improved Undercity assassins
+- Improved Carsa/Kahrk interaction
+- Tougher chapter-two end battle
+- Tougher chapter-three end battle
+- Tougher chapter-four end battle
+- Tougher chapter-five end battle
+- Improved final battle
+- Improved minor encounters
 
-[Diablofication (camera lock)](https://github.com/m-architek/Diablofication), [mirror](https://github.com/the-overdriven/BG-Diablofication), [release mirror](https://drive.google.com/file/d/1zz9YV8nnbo2U8KdanGpzVM8OAUjm_2Hs/view?usp=sharing)  
+## INFINITY UI v1.15
 
-[Simple XP cap remover](https://www.nexusmods.com/baldursgate/mods/35) (the one from Tweaks Anthology might be more reliable)  
+- Install Infinity UI++ Core Component
+- Select Number of Quicksave Slots -> 6
+- Update several strings in Dialog.tlk
 
+## ZG BG VOICES 1.1.0
 
-### [The Tweaks Anthology](https://www.gibberlings3.net/mods/tweaks/tweaks/), [mirror](https://github.com/the-overdriven/BG-IwD-Tweaks-Anthology), [exe mirror](https://drive.google.com/file/d/17ZzEb4NVrFVitSpl97ZvFWCrXKufSYyx/view?usp=sharing), components:   
+- Baldur's Gate Voice Pack for EE 2.6+
 
-Weapon Animation Tweaks  
-Icon Improvements  
-Force All Dialogue to Pause Game  
-Remove "+x" From Unique Item Names  
-Unique Icons  
-Use Character Colors Instead of Item Colors  
-Remove Annoying Visual Effects from Equipped Items  
-Separate Resist Fire/Cold Icon into Separate Icons  
-Reveal Wilderness Areas Before Chapter Six (BG2)  
-Make Cloakwood Areas Available Before Completing the Bandit Camp (BG1)  
-Improved Athkatlan City Guard (BG2)  
-Do Not Reveal City Maps When Entering Area (BG2)  
-NPCs Respond to the Main Character, Not to Whichever Character Talks to Them (IwD)  
-Make Heart of Winter Accessible at Any Level (IwD)  
-NPCs Cannot Pass Doors  
-Change Experience Point Cap  
-Wear Multiple Protection Items  
-Change Magically Created Weapons to Zero Weight  
-Max HP at Level One  
-Higher HP on Level Up  
-Maximum HP Creatures  
-Identify All Items  
-Easy Spell Learning  
-Make Bags of Holding Bottomless  
-Increase Ammo Stack Size  
-Increase Jewelry, Gem, and Miscellaneous Item Stacks  
-Increase Potion Stacking  
-Increase Scroll Stacking  
-Faster Chapter One and Two Cutscenes and Dreams (BG2)  
-Keep Drizzt's Loot, Disable Malchor Harpell (BG2)  
-Stores Purchase All Item Types  
-Sensible Entrance Points  
-Friendly Random Drops (IwD1)  
-Personalize Automatic Save Names  
-Death Cam  
-Start New Games with Party AI Turned Off  
-No Depreciation in Stores  
-Increase Party Movement Speed and/or Casting Speed Outside of Combat  
+## ZG BG2 VOICES 1.2.0
 
-**Mod installation order is important, should be the same as in this list.**
+- Baldur's Gate II Voice Pack for EE 2.6+
+
+## ZG IWD VOICES 1.2.0
+
+- Icewind Dale Voice Pack for EE 2.6+
+
+## ZG IWD2 VOICES 1.2.0
+
+- Icewind Dale II Voice Pack for EE 2.6+
+
+## CDTWEAKS v18
+
+- Weapon Animation Tweaks
+- Icon Improvements
+- Force All Dialogue to Pause Game
+- Fix Boo's Squeak
+- Unique Icons [Lava] -> Only replace icons that aren't already unique
+- Unique Containers [Miloch] -> Unique icons and names
+- Use Character Colors Instead of Item Colors -> For all shields and helmets
+- Remove Annoying Visual Effects from Equipped Items -> Remove all of the above
+- Separate Resist Fire/Cold Icon into Separate Icons [Angel]
+- Colorize NPC Names and Tooltips -> Normal brightness
+- Make Cloakwood Areas Available Before Completing the Bandit Camp -> All of Cloakwood except the mines
+- Add Bags of Holding
+- Stores Sell Higher Stacks of Items
+- Change Cloakwood Mine Chapter End Change Trigger to Non-TotSC Behavior [plainab]
+- Weapon Styles for All
+- Change Experience Point Cap -> Remove experience cap
+- Wear Multiple Protection Items -> No restrictions
+- Multi-Class Grandmastery [Weimer]
+- Change Magically Created Weapons to Zero Weight
+- Remove Racial Restrictions for Single-Classes
+- Remove Racial Restrictions for Kits
+- Alter Dual-Class Restrictions -> Allow non-humans to dual-class
+- Alter Multi-Class Restrictions -> Install options one and two (everyone can multi-class anything)
+- Loosen Equipment Restrictions for Cleric Multi- and Dual-Classes
+- Change Equipment Restrictions for Druid Multi- and Dual-Classes -> Loosen equipment restrictions
+- Everyone Gets Bonus APR from Specialization [subtledoctor]
+- Thieves Can Backstab With More Weapons With "Use Any Item" or as Dual- and Multi-Classes
+- Max HP at Level One
+- Higher HP on Level Up -> Maximum
+- Easy Spell Learning -> 100% learn spells
+- Make Bags of Holding Bottomless
+- Remove Fatigue from Restoration Spells
+- Increase Ammo Stack Size -> Unlimited ammo stacking
+- Increase Jewelry, Gem, and Miscellaneous Item Stacks -> Unlimited jewelry, gem, and miscellaneous item stacking
+- Increase Potion Stacking -> Unlimited potion stacking
+- Increase Scroll Stacking -> Unlimited scroll stacking
+- Stores Purchase All Item Types
+- Taerom Makes Additional Ankheg Armor [Icendoan/grogerson]
+- Personalize Automatic Save Names -> Use scheme: 000000000-[Protagonist]-Save-Name
+- Start New Games with Party AI Turned Off
+- No Depreciation in Stores
+- Explicit Cast Warnings -> All spells (check readme)
+- More Stoneskin Feedback [Luke]
+- More Sensible Fireshield [Luke]
+- More Sensible Blade Barrier [Luke]
+- Dynamic FPS Change [Luke]
+- Ensure Shar-Teel Doesn't Die in the Original Challenge
+- Don't Auto-Assign Advanced AI Scripting to Party
+- Delay Neera's Appearance in Beregost -> Delay until the Nashkel mines are cleared
+- Cleave Class Feat for Fighters and Monks [Luke]
+- Armored Caster Class Feat for Bards [Luke]
+- Trackless Step Class Feat for Rangers [Luke]
+- Nature Sense Class Feat for Druids [Luke]
+- Uncanny Dodge Class Feat for Barbarians and Rogues [Luke]
+
+## ASHESOFEMBERS.TP2
+
+- Sensible weapon restrictions for MODS
+
+## METWEAKS
+
+- Make quest experience divided among party members
+- Remove the limit of two proficiency points in a weapon at character creation
+- No Party Required area transitions
+- Make it possible to enter the Nashkel Mines through the back cave entrance
+- Make it possible to enter the catacombs beneath Candlekeep early
+- Make it so the Jacil and Wiven encounters aren't replaced by other quests
+
+## DIABLOFICATION v0.8
+
+- Camera Lock (Beta)
+
+## NORACERESTRICTIONS
+
+- BCaesar's No Race Restrictions Mod: Version1.01
+
+## BG-RANDOM-LOOT v3.0
+
+- Random Loot (reshuffle items within the same tier)
+- Add new items and re-randomize loot including these new items
+- Replace fake and weak potions with antidotes (POTN20) and scrolls
+- Randomize gems
+- Replace most cheap gems, necklaces and rings with broken shield/armor/weapon and other junk
+- Add new items to stores (Nashkel, Carnival and Black Lily)
+- Add random loot to monsters
+- Remove trash monster loot (i.e. kobold's dagger or hogboglin's leather armor)
+- Block monster respawns
+
+## ZGTWEAKS 1.17
+
+- Add random arcane spell scrolls to arcane casters of their highest memorized level
+- Add random arcane spell scrolls to arcane casters of their highest memorized level - 4
+- Add random arcane spell scrolls to arcane casters up until their highest memorized level
+- Add random arcane spell scrolls to arcane casters up until their highest memorized level - 4
+- Add random arcane spell scrolls to divine casters of their highest memorized level
+- Add random arcane spell scrolls to divine casters of their highest memorized level - 4
+- Add random arcane spell scrolls to divine casters up until their highest memorized level
+- Add random arcane spell scrolls to divine casters up until their highest memorized level - 4
+- Equip items from inventory to fill empty slots
+
+## BGGO v3.5
+
+- Baldurs Gate Graphical Overhaul Core
+
+## NOSTALGIAPACK 1.1
+
+- Restore BG1 Inventory Paperdolls (by Erephine)
+- Restore BG1 Item Icons and Appearance
+- Restore BG1 Flaming Fist appearance
+- Restore BG1 Amnian Guard appearance
+- Restore BG1 Dimension Door Effect
+
+## BGEECLASSICMOVIES v2.4.0
+
+- Restore BG1 movies to BG:EE -> Add missing movies
+- Show all movies in options without need to unlock them in game
+- Restore BG1 Chapter and Dream Screens
+- Modify startup movies -> Disable startup logo and intro movies
+
+## SENTRIZEAL AA PACK v1.6
+
+- Sentrizeal's Wizard 4 Missing Animation Fix
+- Sentrizeal's Elven Ranger Avatar (Female)
+- Sentrizeal's Elven Ranger Avatar (Male)
+- Sentrizeal's Elven Ranger Weapon Fix
+- Sentrizeal's Human Gladiator Avatar (Female)
+- Sentrizeal's Human Gladiator Avatar (Male)
+- Sentrizeal's Human Mercenary Avatar (Female)
+- Sentrizeal's Human Mercenary Avatar (Male)
+- Sentrizeal's Elegant Elven Archmagi Avatar (Female)
+- Sentrizeal's Elegant Elven Archmagi Avatar (Male)
