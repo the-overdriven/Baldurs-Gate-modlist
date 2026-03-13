@@ -1,6 +1,6 @@
 # WeiDU Mod List
 
-_Generated from `WeiDU.log` — 20 mods installed_
+_Generated from `WeiDU.log` — 19 mods installed_
 
 ---
 
@@ -19,23 +19,25 @@ _Generated from `WeiDU.log` — 20 mods installed_
 - Enable time step module - Advance 1 game tick on keypress
 - Enable timer module - Visual indicators for modal actions, contingencies, and spell/item cooldowns
 
+## INFINITY UI v1.15
+
+- Install Infinity UI++ Core Component
+- Update several strings in Dialog.tlk
+- Select Number of Quicksave Slots -> 6
+
 ## HIDDENGAMEPLAYOPTIONS 4.7
 
 - Install all Hidden Gameplay Options at once
 
 ## STRATAGEMS 35.21
 
-- Install all spell tweaks (if you don't select this, you will be given a chance to choose by category)
-- Add 9 new arcane spells
-- Add 6 new divine spells (some borrowed from Divine Remix)
 - Re-introduce potions of extra-healing
 - Make elemental arrows like BG2
 - Wider selection of random scrolls
 - Improved shapeshifting
-- Improved NPC customization and management
 - Revised handling of death effects like disintegration, petrification and imprisonment (party members who are disintegrated etc can be resurrected; imprisoned or petrified characters rejoin the party automatically; the game doesn't end if the main character is petrified or imprisoned)
 - Revised inn rooms: more expensive, more benefits
-- Skip the Candlekeep tutorial sections -> Skip Candlekeep altogether (warning: breaks the 4th wall!)
+- Skip the Candlekeep tutorial sections -> !!! Skip Candlekeep altogether (warning: breaks the 4th wall!)
 - Make spell sequencers and contingencies into innate abilities
 - Ease-of-use party AI
 - Initialise AI components (required for all tactical and AI components)
@@ -70,11 +72,90 @@ _Generated from `WeiDU.log` — 20 mods installed_
 - Improved final battle
 - Improved minor encounters
 
-## INFINITY UI v1.15
+## DIABLOFICATION v0.8
 
-- Install Infinity UI++ Core Component
-- Select Number of Quicksave Slots -> 6
-- Update several strings in Dialog.tlk
+- Camera Lock (Beta)
+
+## CDTWEAKS v18
+
+- Weapon Animation Tweaks
+- Icon Improvements
+- Force All Dialogue to Pause Game
+- Fix Boo's Squeak
+- Unique Icons [Lava] -> !!! Only replace icons that aren't already unique
+- Unique Containers [Miloch] -> !!! Unique icons and names
+- Use Character Colors Instead of Item Colors -> !!! For all shields and helmets
+- Remove Annoying Visual Effects from Equipped Items -> !!! Remove all of the above
+- Separate Resist Fire/Cold Icon into Separate Icons [Angel]
+- Colorize NPC Names and Tooltips -> !!! Normal brightness
+- Make Cloakwood Areas Available Before Completing the Bandit Camp -> !!! All of Cloakwood except the mines
+- Add Bags of Holding
+- Stores Sell Higher Stacks of Items
+- Change Cloakwood Mine Chapter End Change Trigger to Non-TotSC Behavior [plainab]
+- Weapon Styles for All
+- Change Experience Point Cap -> !!! Remove experience cap
+- Wear Multiple Protection Items -> Allow armor plus one protection item [Angel]
+- Multi-Class Grandmastery [Weimer]
+- Change Magically Created Weapons to Zero Weight
+- Remove Racial Restrictions for Single-Classes
+- Remove Racial Restrictions for Kits
+- Alter Gnome Mage Kit/Multi-Class Options -> Generic mage multi-class, enable all kits for single-class
+- Loosen Equipment Restrictions for Cleric Multi- and Dual-Classes
+- Change Equipment Restrictions for Druid Multi- and Dual-Classes -> !!! Loosen equipment restrictions
+- Everyone Gets Bonus APR from Specialization [subtledoctor]
+- Thieves Can Backstab With More Weapons With "Use Any Item" or as Dual- and Multi-Classes
+- Max HP at Level One
+- Higher HP on Level Up -> !!! Maximum
+- Easy Spell Learning -> !!! 100% learn spells
+- Make Bags of Holding Bottomless
+- Remove Fatigue from Restoration Spells
+- Increase Ammo Stack Size -> !!! Unlimited ammo stacking
+- Increase Jewelry, Gem, and Miscellaneous Item Stacks -> !!! Unlimited jewelry, gem, and miscellaneous item stacking
+- Increase Potion Stacking -> !!! Unlimited potion stacking
+- Increase Scroll Stacking -> !!! Unlimited scroll stacking
+- Stores Purchase All Item Types
+- Taerom Makes Additional Ankheg Armor [Icendoan/grogerson]
+- Personalize Automatic Save Names -> !!! Use scheme: 000000000-[Protagonist]-Save-Name
+- Death Cam
+- Start New Games with Party AI Turned Off
+- No Depreciation in Stores
+- Explicit Cast Warnings -> !!! All spells (check readme)
+- More Stoneskin Feedback [Luke]
+- More Sensible Fireshield [Luke]
+- More Sensible Blade Barrier [Luke]
+- Dynamic FPS Change [Luke]
+- More Sensible Morentherene [Luke]
+- Ensure Shar-Teel Doesn't Die in the Original Challenge
+- Don't Auto-Assign Advanced AI Scripting to Party
+- Delay Neera's Appearance in Beregost -> !!! Delay until the Nashkel mines are cleared
+- Cleave Class Feat for Fighters and Monks [Luke]
+- Armored Caster Class Feat for Bards [Luke]
+- Trackless Step Class Feat for Rangers [Luke]
+- Nature Sense Class Feat for Druids [Luke]
+- Uncanny Dodge Class Feat for Barbarians and Rogues [Luke]
+
+## ASHESOFEMBERS.TP2
+
+- Sensible weapon restrictions for MODS
+
+## BUBB SPELL MENU EXTENDED v5.1
+
+- Bubb's Spell Menu Extended
+
+## INFINITYSOUNDS v2.2
+
+- Restore BG1 Spellcasting Voices
+- Restore BG1 Spellcasting Sounds
+- Restore BG1 Weapon Sounds
+- Restore BG1 Armor Sounds
+- Restore BG1 GUI Sounds
+- Restore Gulp Sound
+- Restore Chunked Death Sound
+- Tweak Sound Channel Volume Levels
+- Enable Footsteps During Combat
+- Mute Tooltip Paper Sound
+- Restore BG1 Ambient Sounds
+- Enhance Positional Audio
 
 ## ZG BG VOICES 1.1.0
 
@@ -92,83 +173,24 @@ _Generated from `WeiDU.log` — 20 mods installed_
 
 - Icewind Dale II Voice Pack for EE 2.6+
 
-## CDTWEAKS v18
+## VVEBG v1.0
 
-- Weapon Animation Tweaks
-- Icon Improvements
-- Force All Dialogue to Pause Game
-- Fix Boo's Squeak
-- Unique Icons [Lava] -> Only replace icons that aren't already unique
-- Unique Containers [Miloch] -> Unique icons and names
-- Use Character Colors Instead of Item Colors -> For all shields and helmets
-- Remove Annoying Visual Effects from Equipped Items -> Remove all of the above
-- Separate Resist Fire/Cold Icon into Separate Icons [Angel]
-- Colorize NPC Names and Tooltips -> Normal brightness
-- Make Cloakwood Areas Available Before Completing the Bandit Camp -> All of Cloakwood except the mines
-- Add Bags of Holding
-- Stores Sell Higher Stacks of Items
-- Change Cloakwood Mine Chapter End Change Trigger to Non-TotSC Behavior [plainab]
-- Weapon Styles for All
-- Change Experience Point Cap -> Remove experience cap
-- Wear Multiple Protection Items -> No restrictions
-- Multi-Class Grandmastery [Weimer]
-- Change Magically Created Weapons to Zero Weight
-- Remove Racial Restrictions for Single-Classes
-- Remove Racial Restrictions for Kits
-- Alter Dual-Class Restrictions -> Allow non-humans to dual-class
-- Alter Multi-Class Restrictions -> Install options one and two (everyone can multi-class anything)
-- Loosen Equipment Restrictions for Cleric Multi- and Dual-Classes
-- Change Equipment Restrictions for Druid Multi- and Dual-Classes -> Loosen equipment restrictions
-- Everyone Gets Bonus APR from Specialization [subtledoctor]
-- Thieves Can Backstab With More Weapons With "Use Any Item" or as Dual- and Multi-Classes
-- Max HP at Level One
-- Higher HP on Level Up -> Maximum
-- Easy Spell Learning -> 100% learn spells
-- Make Bags of Holding Bottomless
-- Remove Fatigue from Restoration Spells
-- Increase Ammo Stack Size -> Unlimited ammo stacking
-- Increase Jewelry, Gem, and Miscellaneous Item Stacks -> Unlimited jewelry, gem, and miscellaneous item stacking
-- Increase Potion Stacking -> Unlimited potion stacking
-- Increase Scroll Stacking -> Unlimited scroll stacking
-- Stores Purchase All Item Types
-- Taerom Makes Additional Ankheg Armor [Icendoan/grogerson]
-- Personalize Automatic Save Names -> Use scheme: 000000000-[Protagonist]-Save-Name
-- Start New Games with Party AI Turned Off
-- No Depreciation in Stores
-- Explicit Cast Warnings -> All spells (check readme)
-- More Stoneskin Feedback [Luke]
-- More Sensible Fireshield [Luke]
-- More Sensible Blade Barrier [Luke]
-- Dynamic FPS Change [Luke]
-- Ensure Shar-Teel Doesn't Die in the Original Challenge
-- Don't Auto-Assign Advanced AI Scripting to Party
-- Delay Neera's Appearance in Beregost -> Delay until the Nashkel mines are cleared
-- Cleave Class Feat for Fighters and Monks [Luke]
-- Armored Caster Class Feat for Bards [Luke]
-- Trackless Step Class Feat for Rangers [Luke]
-- Nature Sense Class Feat for Druids [Luke]
-- Uncanny Dodge Class Feat for Barbarians and Rogues [Luke]
+- Add Character Sounds for BG
 
-## ASHESOFEMBERS.TP2
+## PPE 1.02
 
-- Sensible weapon restrictions for MODS
+- Portraits Portraits Everywhere (PPE) - core component
+- Category Portraits (Recommended) -> Sequenced
+- Change Viconia portraits -> BG2 Portrait
 
-## METWEAKS
+## WEAPONS REFORGED.TP2 v1.0
 
-- Make quest experience divided among party members
-- Remove the limit of two proficiency points in a weapon at character creation
-- No Party Required area transitions
-- Make it possible to enter the Nashkel Mines through the back cave entrance
-- Make it possible to enter the catacombs beneath Candlekeep early
-- Make it so the Jacil and Wiven encounters aren't replaced by other quests
+- Remove All Class-based Restrictions on Weapons (Item Usability)
+- All Classes Can Use All Weapons (Class Usability/Monks Excluded)
 
-## DIABLOFICATION v0.8
+## BGEEW.TP2
 
-- Camera Lock (Beta)
-
-## NORACERESTRICTIONS
-
-- BCaesar's No Race Restrictions Mod: Version1.01
+- TeamBG's Weapons Pack for BG:EE, BGT and TuTu Version 1.04
 
 ## BG-RANDOM-LOOT v3.0
 
@@ -181,47 +203,3 @@ _Generated from `WeiDU.log` — 20 mods installed_
 - Add random loot to monsters
 - Remove trash monster loot (i.e. kobold's dagger or hogboglin's leather armor)
 - Block monster respawns
-
-## ZGTWEAKS 1.17
-
-- Add random arcane spell scrolls to arcane casters of their highest memorized level
-- Add random arcane spell scrolls to arcane casters of their highest memorized level - 4
-- Add random arcane spell scrolls to arcane casters up until their highest memorized level
-- Add random arcane spell scrolls to arcane casters up until their highest memorized level - 4
-- Add random arcane spell scrolls to divine casters of their highest memorized level
-- Add random arcane spell scrolls to divine casters of their highest memorized level - 4
-- Add random arcane spell scrolls to divine casters up until their highest memorized level
-- Add random arcane spell scrolls to divine casters up until their highest memorized level - 4
-- Equip items from inventory to fill empty slots
-
-## BGGO v3.5
-
-- Baldurs Gate Graphical Overhaul Core
-
-## NOSTALGIAPACK 1.1
-
-- Restore BG1 Inventory Paperdolls (by Erephine)
-- Restore BG1 Item Icons and Appearance
-- Restore BG1 Flaming Fist appearance
-- Restore BG1 Amnian Guard appearance
-- Restore BG1 Dimension Door Effect
-
-## BGEECLASSICMOVIES v2.4.0
-
-- Restore BG1 movies to BG:EE -> Add missing movies
-- Show all movies in options without need to unlock them in game
-- Restore BG1 Chapter and Dream Screens
-- Modify startup movies -> Disable startup logo and intro movies
-
-## SENTRIZEAL AA PACK v1.6
-
-- Sentrizeal's Wizard 4 Missing Animation Fix
-- Sentrizeal's Elven Ranger Avatar (Female)
-- Sentrizeal's Elven Ranger Avatar (Male)
-- Sentrizeal's Elven Ranger Weapon Fix
-- Sentrizeal's Human Gladiator Avatar (Female)
-- Sentrizeal's Human Gladiator Avatar (Male)
-- Sentrizeal's Human Mercenary Avatar (Female)
-- Sentrizeal's Human Mercenary Avatar (Male)
-- Sentrizeal's Elegant Elven Archmagi Avatar (Female)
-- Sentrizeal's Elegant Elven Archmagi Avatar (Male)
